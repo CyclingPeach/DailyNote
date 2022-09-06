@@ -1,7 +1,0 @@
-package android.hardware.myvibrator@1.0;
-enum MyVibratorRet : uint32_t {
-    OK,
-    UNKNOWN_ERROR,
-    BAD_VALUE,
-    UNSUPPORTTED_OPERATION
-};

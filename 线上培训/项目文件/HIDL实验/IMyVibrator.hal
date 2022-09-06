@@ -1,5 +1,0 @@
-package android.hardware.myvibrator@1.0;
-interface IMyVibrator {
-    on(uint32_t timeoutMs) generates (MyVibratorRet vibratorOnRet);
-    off() generates (MyVibratorRet vibratorOffRet);
-};
